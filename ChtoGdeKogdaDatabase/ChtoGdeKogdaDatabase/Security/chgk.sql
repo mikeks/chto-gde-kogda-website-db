@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [chgk]
+    AUTHORIZATION [dbo];
+
